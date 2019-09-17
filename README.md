@@ -14,6 +14,6 @@ RunCameras.py:
 
 starts camera and derives an x position to return from 0-800 (pixel width of whole view).
 
-MotionDection.py:
+Motion_detector.py:
 
 Uses gaussian smoothing to find the target 
